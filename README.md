@@ -1,6 +1,6 @@
 # WebLogin
 Version 2.0
-[中文说明](https://github.com/kenvix/Minecraft-WebLogin/blob/master/README-zh.md)
+[中文说明](https://github.com/XMJjs/Minecraft-WebLogin/blob/master/README-zh.md)
 # What's this 
 When a player attempting to connect the server, this plugin will post player data to your server    
 You can allow/disallow the player joining the server by return some specific message.    
@@ -108,10 +108,10 @@ banContinueIfFailed: false
 ```
 # Downloads
 ## Compiled:
-Github:https://github.com/kenvix/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar        
+Github:https://github.com/XMJjs/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar        
 ## Git Repository: 
-Github:https://github.com/kenvix/Minecraft-WebLogin       
+Github:https://github.com/XMJjs/Minecraft-WebLogin       
 # Other
-My Blog: http://kenvix.com           
+kenvix Blog: http://kenvix.com           
           
 MoeCraft：https://www.moecraft.net         
