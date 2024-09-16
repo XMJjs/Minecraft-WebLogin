@@ -135,14 +135,13 @@ banContinueIfFailed: false
 ```
 # Downloads 下载
 ## Compiled: 已编译版本下载:
-Github:https://github.com/kenvix/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar        
-Git@OSC:https://git.oschina.net/kenvix/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar    
+Github:https://github.com/XMJjs/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar        
+Git@OSC:https://git.oschina.net/XMJjs/Minecraft-WebLogin/raw/master/out/artifacts/net.moecraft.weblogin/net.moecraft.weblogin.jar    
 ## Git Repository: 代码库:
-Github:https://github.com/kenvix/Minecraft-WebLogin       
-Git@OSC:https://git.oschina.net/kenvix/Minecraft-WebLogin          
+Github:https://github.com/XMJjs/Minecraft-WebLogin       
+Git@OSC:https://git.oschina.net/XMJjs/Minecraft-WebLogin          
 # Other 其他:
-My Blog: http://kenvix.com           
 
-博客：http://kenvix.com           
+kenvix博客：http://kenvix.com           
 MoeCraft：https://www.moecraft.net         
-博客发布贴：http://kenvix.com/?p=31
+kenvix博客发布贴：http://kenvix.com/?p=31
